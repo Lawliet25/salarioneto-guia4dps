@@ -1,0 +1,4 @@
+export default{
+  PRIMARY_COLOR:'#780000',
+  PRIMARY_COLOR_DARK:'#003049',
+}
